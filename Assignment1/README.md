@@ -1,2 +1,7 @@
 This is my assignment 1 folder.
-I added something through visual studio code. 
+# H1
+## H2
+### H3
+#### H4
+##### H5 
+###### H6 
