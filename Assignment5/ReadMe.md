@@ -1,0 +1,7 @@
+Paragraphs 
+    <P> This is a paragraph element - this is the most common way of writing paragraphs in HTML pages 
+When using Markdown, emply lines create paragraphs and provide a cushion between one paragraph and the next. HTML does not do this. 
+With HTML, paragraph tags create paragraphs, and browers automatically add cushion above and below paragraph elements. 
+
+<p>Images - The image tag is <img /> and it creates an empty element src=""" and this tells the browers the location of the image or the URL to the file
+For example: <img src=".images/name-of-image.jpg" /> </p>. .. 
