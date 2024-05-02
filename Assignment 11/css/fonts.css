@@ -1,0 +1,17 @@
+@font-face{
+    font-family:'PixelifySans';
+    src: url('../fonts/PixelifySans-SemiBold.ttf') format('truetype');
+    font-style: 'bold';
+}
+
+@font-face{
+    font-family: 'RobotoMono';
+    src: url('../fonts/RobotoMono-Bold.ttf') format('truetype');
+    font-style: 'bold';
+}
+@font-face{
+    font-family: 'RobotoMono';
+    src: url('../fonts/RobotoMono-Italic.ttf') format('truetype');
+    font-style: 'italic';
+}
+
