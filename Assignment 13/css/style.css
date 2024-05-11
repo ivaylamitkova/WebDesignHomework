@@ -21,15 +21,15 @@ h1, h3, h5{
     
 }
 .opening-paragraph{
-    color: yellow;
-    font-size: 16px;
-    text-indent: 10px;
-    font-weight:800;
+    color: pink;
+    font-size: 20px;
+    text-indent: 16px;
+    font-weight:900;
 }
 
 .opening-paragraph::first-line{
-    font-size: 16px;
+    font-size: 20px;
 }
 .second-paragraph{
-    font-size: 16px;
+    font-size: 20px;
 }
